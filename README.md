@@ -1,6 +1,7 @@
 # basketball-vuex
 
 > A Vue.js project
+> 仿体育篮球项目 纯学习
 
 ## Build Setup
 
