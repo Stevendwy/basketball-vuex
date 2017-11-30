@@ -1,28 +1,28 @@
 <template>
-  <div class="my-resume">
-    <header class="header">
-      关于作者
-    </header>
-    <section class="resume-card">
-      <div class="card-header">
-        <img src="http://xurenjie.cn:3000/resume/xurenjie.JPG" alt="" class="header__avatar">
-      </div>
-      <h2 class="name">徐人杰</h2>
-      <div class="desc">
-        <p class="tel">电话：15279102530</p>
-        <p class="mail">mail：2578370399@qq.com</p>
-        <p class="gmail">gmail：renjiexu96.gmail.com</p>
-      </div>
-      <div class="link-group">
-        <a href="https://github.com/renjie1996" class="github">
-          <img v-lazy="github" alt="">
-        </a>
-        <a href="http://xurenjie.cn:3000/resume/xurenjie_resume.html" class="resume">
-          我的简历
-        </a>
-      </div>
-    </section>
-  </div>
+    <div class="my-resume">
+        <header class="header">
+            关于作者
+        </header>
+        <section class="resume-card">
+            <div class="card-header">
+                <img src="../../assets/img/tunnels/英超.png" alt="" class="header__avatar">
+            </div>
+            <h2 class="name">董伟洋</h2>
+            <div class="desc">
+                <p class="tel">电话：17682302034</p>
+                <p class="mail">mail：279115068@qq.com</p>
+                <p class="gmail">gmail：wangjil.com</p>
+            </div>
+            <div class="link-group">
+                <a href="https://github.com/renjie1996" class="github">
+                    <img v-lazy="github" alt="">
+                </a>
+                <a href="http://xurenjie.cn:3000/resume/xurenjie_resume.html" class="resume">
+                    我的简历
+                </a>
+            </div>
+        </section>
+    </div>
 </template>
 
 <script>
